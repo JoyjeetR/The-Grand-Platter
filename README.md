@@ -66,7 +66,7 @@ The landing page is built with HTML, CSS, and vanilla JavaScript. A PHP-powered 
 
 ### 8. Mobile layout
 
-![Mobile layout screenshot](IMG/MOBILE1.png)
+![Mobile layout screenshot](IMG/MOBILE1.webp)
 
 ## 🧰 Tech Stack
 

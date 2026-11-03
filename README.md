@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/JoyjeetR/The-Grand-Platter">
+    <img src="https://raw.githubusercontent.com/JoyjeetR/The-Grand-Platter/main/IMG/the-grand-platter-round-logo-.png" alt="The Grand Platter Logo" width="100">
+  </a>
+</p>
+
 <div align="center">
 
 # The Grand Platter

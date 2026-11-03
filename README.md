@@ -93,6 +93,6 @@ The landing page is built with HTML, CSS, and vanilla JavaScript. A PHP-powered 
 
 <div align="center">
 
-**The Grand Platter** · Premium Catering Website
+**Developed by [JOYJEET ROY](https://linkedin.com/in/joyjeetroy) & [SARAT BANIK](https://linkedin.com/in/saraatbanik)**
 
 </div>

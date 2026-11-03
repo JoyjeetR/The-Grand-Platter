@@ -82,17 +82,10 @@ The landing page is built with HTML, CSS, and vanilla JavaScript. A PHP-powered 
 
 **No database or JavaScript framework is currently required.** Menu content is stored in a JavaScript data object.
 
-
-## 👥 Contributors
-
-- **Joyjeet Roy** — [LinkedIn](https://www.linkedin.com/in/joyjeetroy/)
-- **Sarat Banik** — [LinkedIn](https://www.linkedin.com/in/saratbanik)
-
-
 ---
 
 <div align="center">
 
-**Developed by [JOYJEET ROY](https://linkedin.com/in/joyjeetroy) & [SARAT BANIK](https://linkedin.com/in/saraatbanik)**
+**Developed by [JOYJEET ROY](https://linkedin.com/in/joyjeetroy) & [SARAT BANIK](https://linkedin.com/in/saratbanik)**
 
 </div>
